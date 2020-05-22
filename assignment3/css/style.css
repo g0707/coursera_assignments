@@ -105,48 +105,6 @@ p
   overflow: auto;
 }
 
-<<<<<<< HEAD
-/*
-=======
->>>>>>> c8bc627dacbb7769e5d543cc9f775e4d5b9be216
-#p1>div
-{
-    border: 1px solid black;
-    background-color: bisque;
-    width: 100px;
-    height: 50px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-
-#p2>div
-{
-    border: 1px solid black;
-    background-color: indianred;
-    width: 100px;
-    height: 50px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-
-
-#p3>div
-{
-    border: 1px solid black;
-    background-color: lightyellow;
-    width: 100px;
-    height: 50px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-<<<<<<< HEAD
-*/
-=======
->>>>>>> c8bc627dacbb7769e5d543cc9f775e4d5b9be216
-
 .container {
 	border: none;
 	margin-left: auto;
